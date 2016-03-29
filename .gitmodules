@@ -1,0 +1,15 @@
+[submodule "vendor/class"]
+	path = vendor/class
+	url = https://github.com/kikito/middleclass.git
+[submodule "vendor/bump"]
+	path = vendor/bump
+	url = https://github.com/kikito/bump.lua.git
+[submodule "vendor/stp"]
+	path = vendor/stp
+	url = https://github.com/ignacio/StackTracePlus.git
+[submodule "vendor/profi"]
+	path = vendor/profi
+	url = https://github.com/mindreframer/ProFi.lua.git
+[submodule "build"]
+	path = build
+	url = git@github.com:raingloom/peacebuilder.git
